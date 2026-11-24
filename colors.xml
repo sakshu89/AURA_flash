@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- hsl(0, 5%, 6%): the same formula Md3SchemeBuilder uses for the md
+         background token, evaluated at the default hue so the splash screen
+         never flashes a mismatched color. -->
+    <color name="splash_background">#FF100F0F</color>
+
+    <!-- LastWave app icon (Aug 2026 restore): the lime circle behind the
+         four bars in the official logo. Used as the adaptive icon's
+         background layer, paired with ic_launcher_foreground for the bars. -->
+    <color name="ic_launcher_background">#FFC9FB00</color>
+    <color name="ic_launcher_background_desktop">#FFBFF30C</color>
+    <color name="ic_launcher_background_white">#FFFFFFFF</color>
+    <color name="ic_launcher_background_black">#FF000000</color>
+
+    <!-- AURA purple palette -->
+    <color name="aura_primary">#FFBB86FC</color>
+    <color name="aura_primary_dark">#FF9B5DE5</color>
+    <color name="aura_secondary">#FF00D2FF</color>
+    <color name="aura_background">#FF0A0A0F</color>
+    <color name="aura_surface">#FF1A1A2E</color>
+    <color name="aura_glass_tint">#4D1A1A2E</color>
+    <color name="aura_frost_tint">#33FFFFFF</color>
+</resources>
